@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Learn. Replay. Adapt.</title>
+  <desc id="desc">A learned route remains a draft until verified. Eligible navigation can replay without a model call with a fresh arrival check. A changed screen stops replay and returns control to the agent. Approvals still apply.</desc>
+  <rect width="1200" height="430" rx="24" fill="#f5f3ec"/>
+  <text x="48" y="57" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#ec503b">A LITTLE MUSCLE MEMORY</text>
+  <text x="48" y="105" font-family="Arial,sans-serif" font-size="36" font-weight="700" letter-spacing="-1" fill="#25232b">Good moves deserve an encore.</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="48" y="141" width="342" height="202" rx="18" fill="#fffdf8" stroke="#dcd9d1"/>
+    <circle cx="82" cy="177" r="15" fill="#ec503b"/><text x="82" y="182" text-anchor="middle" font-size="12" font-weight="700" fill="#f5f3ec">01</text>
+    <text x="112" y="184" font-size="24" font-weight="700" fill="#25232b">Learn</text>
+    <text x="73" y="229" font-size="16" fill="#6c6970">The agent finds a working route.</text>
+    <text x="73" y="253" font-size="16" fill="#6c6970">Selectors and arrival checks stay</text>
+    <text x="73" y="277" font-size="16" fill="#6c6970">in a draft until verified.</text>
+    <text x="73" y="318" font-size="11" font-weight="700" letter-spacing="1" fill="#ec503b">DRAFT → VERIFIED</text>
+    <rect x="429" y="141" width="342" height="202" rx="18" fill="#ddeba0"/>
+    <circle cx="463" cy="177" r="15" fill="#25232b"/><text x="463" y="182" text-anchor="middle" font-size="12" font-weight="700" fill="#f5f3ec">02</text>
+    <text x="493" y="184" font-size="24" font-weight="700" fill="#25232b">Replay</text>
+    <text x="454" y="229" font-size="16" fill="#25232b">Follow eligible, verified navigation.</text>
+    <text x="454" y="253" font-size="16" fill="#25232b">Read the device again to confirm</text>
+    <text x="454" y="277" font-size="16" fill="#25232b">where you actually arrived.</text>
+    <text x="454" y="318" font-size="11" font-weight="700" letter-spacing="1" fill="#25232b">0 MODEL CALLS FOR ELIGIBLE REPLAY</text>
+    <rect x="810" y="141" width="342" height="202" rx="18" fill="#27252e"/>
+    <circle cx="844" cy="177" r="15" fill="#ec503b"/><text x="844" y="182" text-anchor="middle" font-size="12" font-weight="700" fill="#f5f3ec">03</text>
+    <text x="874" y="184" font-size="24" font-weight="700" fill="#f5f3ec">Adapt</text>
+    <text x="835" y="229" font-size="16" fill="#d4d0da">A screen changes? Stop replay.</text>
+    <text x="835" y="253" font-size="16" fill="#d4d0da">Return control to the agent,</text>
+    <text x="835" y="277" font-size="16" fill="#d4d0da">then verify the new route.</text>
+    <text x="835" y="318" font-size="11" font-weight="700" letter-spacing="1" fill="#ddeba0">CHECK AGAIN, EVERY TIME</text>
+  </g>
+  <path d="M399 239h19m-6-6 6 6-6 6M780 239h19m-6-6 6 6-6 6" fill="none" stroke="#ec503b" stroke-width="2" stroke-linecap="round"/>
+  <path d="M48 369h1104" stroke="#dcd9d1"/>
+  <text x="48" y="399" font-family="Arial,sans-serif" font-size="13" fill="#6c6970">Fresh observations. Human approval when required. No blanket cache of arbitrary tasks.</text>
+</svg>

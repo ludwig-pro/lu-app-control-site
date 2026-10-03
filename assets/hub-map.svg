@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">One local hub. Every interface follows the same rules.</title>
+  <desc id="desc">External agents connect over MCP or REST, the dashboard connects over REST and WebSocket, and the built-in agent uses the shared tools. Validation, approvals, audit and device queues run in one hub. Device backends support iOS simulators, signed physical iPhones, and Android over adb.</desc>
+  <rect width="1200" height="640" rx="24" fill="#f5f3ec"/>
+  <text x="48" y="56" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#ec503b">THE SYSTEM</text>
+  <text x="48" y="103" font-family="Arial,sans-serif" font-size="36" font-weight="700" letter-spacing="-1" fill="#25232b">One hub. You keep the controls.</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="48" y="143" width="342" height="91" rx="15" fill="#fffdf8" stroke="#dcd9d1"/>
+    <text x="72" y="178" font-size="18" font-weight="700" fill="#25232b">Your external agents</text>
+    <text x="72" y="205" font-size="13" fill="#6c6970">MCP stdio / HTTP · REST</text>
+    <rect x="429" y="143" width="342" height="91" rx="15" fill="#fffdf8" stroke="#dcd9d1"/>
+    <text x="453" y="178" font-size="18" font-weight="700" fill="#25232b">Web + macOS dashboards</text>
+    <text x="453" y="205" font-size="13" fill="#6c6970">Live view · REST + WebSocket</text>
+    <rect x="810" y="143" width="342" height="91" rx="15" fill="#fffdf8" stroke="#dcd9d1"/>
+    <text x="834" y="178" font-size="18" font-weight="700" fill="#25232b">Built-in agent</text>
+    <text x="834" y="205" font-size="13" fill="#6c6970">Per-device chat · Your chosen engine</text>
+  </g>
+  <g fill="none" stroke="#ec503b" stroke-width="2"><path d="M219 234v48m-5-6 5 6 5-6M600 234v48m-5-6 5 6 5-6M981 234v48m-5-6 5 6 5-6"/></g>
+  <rect x="48" y="287" width="1104" height="166" rx="20" fill="#27252e"/>
+  <rect x="73" y="311" width="39" height="39" rx="11" fill="#ec503b"/>
+  <path d="M86 321v19h17M86 332h10v-11" fill="none" stroke="#f5f3ec" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="128" y="338" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#f5f3ec">lu-app-control</text>
+  <text x="1124" y="337" text-anchor="end" font-family="Consolas,monospace" font-size="14" fill="#ddeba0">127.0.0.1:7423</text>
+  <path d="M74 369h1052" stroke="#494550"/>
+  <text x="74" y="397" font-family="Arial,sans-serif" font-size="16" fill="#f5f3ec">One tool layer: validation · scopes · approvals · secrets · observation · audit</text>
+  <text x="74" y="427" font-family="Arial,sans-serif" font-size="14" fill="#d4d0da">One queue per device · leases · human takeover · agent-device / fake / explicit plugins</text>
+  <g fill="none" stroke="#ec503b" stroke-width="2"><path d="M219 453v37m-5-6 5 6 5-6M600 453v37m-5-6 5 6 5-6M981 453v37m-5-6 5 6 5-6"/></g>
+  <g font-family="Arial,sans-serif">
+    <rect x="48" y="495" width="342" height="95" rx="15" fill="#ddeba0"/>
+    <text x="72" y="531" font-size="19" font-weight="700" fill="#25232b">iOS simulator</text>
+    <text x="72" y="558" font-size="13" fill="#25232b">macOS + Xcode · XCTest</text>
+    <rect x="429" y="495" width="342" height="95" rx="15" fill="#fffdf8" stroke="#dcd9d1"/>
+    <text x="453" y="531" font-size="19" font-weight="700" fill="#25232b">Physical iPhone</text>
+    <text x="453" y="558" font-size="13" fill="#6c6970">Developer Mode + signed XCTest runner</text>
+    <rect x="810" y="495" width="342" height="95" rx="15" fill="#fffdf8" stroke="#dcd9d1"/>
+    <text x="834" y="531" font-size="19" font-weight="700" fill="#25232b">Android</text>
+    <text x="834" y="558" font-size="13" fill="#6c6970">Emulators + phones · adb + helpers</text>
+  </g>
+  <text x="48" y="618" font-family="Arial,sans-serif" font-size="12" fill="#6c6970">Physical devices start inactive. You activate them before an agent can use them.</text>
+</svg>

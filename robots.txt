@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ludwig-pro.github.io/lu-app-control-site/sitemap.xml

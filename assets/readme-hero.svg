@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="title desc">
+  <title id="title">lu-app-control — Your agent. In control.</title>
+  <desc id="desc">An original illustration in cream, coral and soft green. An agent follows a verified route through a local hub to a phone. The illustrated replay makes zero model calls.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#dedbd2" stroke-width="1"/></pattern>
+    <clipPath id="frame"><rect width="1200" height="540" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="540" fill="#f5f3ec"/>
+    <rect x="645" width="555" height="540" fill="url(#grid)"/>
+    <circle cx="968" cy="265" r="193" fill="#ddeba0"/>
+    <path d="M675 245C669 96 1112 50 1155 243S762 521 719 347" fill="none" stroke="#ec503b" stroke-width="2" stroke-dasharray="7 8"/>
+    <rect x="54" y="44" width="46" height="46" rx="13" fill="#ec503b"/>
+    <path d="M69 56v22h22M69 68h14V56" fill="none" stroke="#f5f3ec" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="114" y="74" font-family="Arial,sans-serif" font-weight="700" font-size="25" fill="#25232b">luac <tspan fill="#ec503b">/</tspan><tspan font-weight="400" font-size="19"> app control</tspan></text>
+    <circle cx="65" cy="140" r="4" fill="#ec503b"/>
+    <text x="80" y="145" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#6c6970">LOCAL-FIRST. AGENT-READY.</text>
+    <text x="54" y="236" font-family="Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-4" fill="#25232b">Your agent.</text>
+    <text x="54" y="320" font-family="Georgia,serif" font-style="italic" font-size="85" letter-spacing="-4" fill="#25232b">In<tspan dx="16" font-family="Arial,sans-serif" font-weight="700" font-style="normal" font-size="78">control</tspan><tspan fill="#ec503b">.</tspan></text>
+    <text x="57" y="377" font-family="Arial,sans-serif" font-size="23" fill="#6c6970">Eyes, hands, and a little muscle memory.</text>
+    <path d="M56 424h520" stroke="#dcd9d1"/>
+    <text x="56" y="464" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#25232b">iOS + Android</text>
+    <circle cx="199" cy="459" r="2" fill="#ec503b"/>
+    <text x="220" y="464" font-family="Arial,sans-serif" font-size="14" fill="#25232b">MCP + REST</text>
+    <circle cx="340" cy="459" r="2" fill="#ec503b"/>
+    <text x="361" y="464" font-family="Arial,sans-serif" font-size="14" fill="#25232b">You keep control</text>
+    <rect x="657" y="70" width="227" height="43" rx="12" fill="#f5f3ec" stroke="#dcd9d1"/>
+    <rect x="674" y="85" width="10" height="10" rx="2" fill="#ec503b"/>
+    <text x="694" y="96" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#25232b">AGENT CONNECTED</text>
+    <g transform="translate(877 112) rotate(7 109 161)">
+      <rect x="6" y="8" width="218" height="333" rx="34" fill="#25232b" opacity=".1"/>
+      <rect width="218" height="333" rx="34" fill="#25232b"/>
+      <rect x="8" y="8" width="202" height="317" rx="27" fill="#fbfaf6"/>
+      <rect x="80" y="16" width="59" height="15" rx="8" fill="#25232b"/>
+      <text x="25" y="32" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#25232b">9:41</text>
+      <text x="21" y="66" font-family="Arial,sans-serif" font-size="11" fill="#ec503b">‹ Settings</text>
+      <text x="23" y="102" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#25232b">General</text>
+      <rect x="18" y="122" width="182" height="43" rx="10" fill="#ddeba0"/>
+      <text x="29" y="148" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#25232b">About</text>
+      <path d="m178 138 5 6-5 6" fill="none" stroke="#25232b" stroke-width="1.5"/>
+      <circle cx="144" cy="144" r="17" fill="none" stroke="#ec503b" stroke-width="2"/>
+      <circle cx="144" cy="144" r="4" fill="#ec503b"/>
+      <rect x="18" y="173" width="182" height="88" rx="10" fill="#eeece5"/>
+      <path d="M29 215h160" stroke="#dcd9d1"/>
+      <text x="29" y="199" font-family="Arial,sans-serif" font-size="12" fill="#6c6970">Software Update</text>
+      <text x="29" y="242" font-family="Arial,sans-serif" font-size="12" fill="#6c6970">AirDrop</text>
+      <rect x="77" y="310" width="64" height="4" rx="2" fill="#25232b"/>
+    </g>
+    <rect x="653" y="329" width="340" height="148" rx="16" fill="#27252e"/>
+    <circle cx="676" cy="350" r="4" fill="#ec503b"/><circle cx="690" cy="350" r="4" fill="#b2aeaa"/><circle cx="704" cy="350" r="4" fill="#ddeba0"/>
+    <text x="726" y="354" font-family="Arial,sans-serif" font-size="10" letter-spacing="1" fill="#c4c0c9">luac / local hub</text>
+    <path d="M653 368h340" stroke="#494550"/>
+    <g font-family="Consolas,monospace" font-size="13">
+      <text x="676" y="397" fill="#f5f3ec">› follow_route <tspan fill="#ddeba0">"settings-about"</tspan></text>
+      <text x="676" y="423" fill="#c4c0c9">↳ arrival_verified <tspan fill="#ddeba0">true</tspan></text>
+      <text x="676" y="449" fill="#c4c0c9">↳ model_calls <tspan fill="#ddeba0">0</tspan></text>
+    </g>
+    <text x="1156" y="63" text-anchor="end" font-family="Arial,sans-serif" font-size="40" fill="#ec503b">✳</text>
+    <text x="1150" y="512" text-anchor="end" font-family="Arial,sans-serif" font-size="9" letter-spacing="1.5" fill="#6c6970">ILLUSTRATED WORKFLOW</text>
+  </g>
+</svg>
