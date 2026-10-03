@@ -4,6 +4,8 @@
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; scroll-padding-top: 100px; }
 html[data-motion='paused'] { scroll-behavior: auto; }
+/* Rotating hero ornaments may cross the viewport edge; keep their overflow decorative. */
+.hero { overflow-x: clip; }
 body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font); -webkit-font-smoothing: antialiased; }
 body::selection { background: var(--signal); color: var(--paper); }
 a { color: inherit; text-decoration: none; }
